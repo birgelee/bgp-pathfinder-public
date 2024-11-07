@@ -1,0 +1,9 @@
+{
+	"engine": "vultr",
+	"nodes": ["vultrnj4"],
+	"/nodes": ["nicksaopaulopath1"],
+	"test-nodes": ["vultrmumbaitest", "vultrmiamitest", "vultrlondontest", "vultrlalarge"],
+	"//nodes": ["vultrstockholmlarge", "vultrlalarge"],
+	"///nodes": ["vultrnj2", "vultrla", "vultrlalarge"],
+	"src-nodes": ["vultramsterdam", "vultratlanta", "vultrbangalore", "vultrchicago", "vultrdallas", "vultrfrankfurt", "vultrjohannesburg", "vultrla", "vultrlondon", "vultrmadrid", "vultrmelbourne", "vultrmexicocity", "vultrmiami", "vultrmumbai", "vultrnj2", "vultrparis", "vultrsaopaulo", "vultrseattle", "vultrseoul", "vultrsiliconvalley", "vultrsingapore", "vultrstockholm", "vultrsydney", "vultrtokyo", "vultrtoronto", "vultrwarsaw"]
+}

@@ -1,0 +1,10 @@
+{"__default": {"key": "vultr.pem", "user": "root", "template": "bird6-default.conf", "template4": "bird-default.conf"},
+"vultrsaopaulolarge": "216.238.105.85",
+"vultrsiliconvalleyvictim": "149.28.202.172",
+"nicksaopaulopath1": "216.238.115.214",
+"nicksaopaulopath2": "216.238.113.230",
+"vultrfrankfurt2": {"ip": "136.244.87.195", "template": "bird6-scion-backbone-default.conf"},
+"vultrnj": {"ip": "45.63.10.143", "template": "bird6-default.conf", "template4": "bird-default-personal.conf"},
+"vultrnj4": {"ip": "140.82.11.150", "template": "bird6-scion-backbone-default.conf"},
+"vultrsiliconvalley4": {"ip": "149.28.205.191", "template": "bird6-scion-backbone-default.conf"},
+ "vultramsterdam": "45.76.33.140", "vultratlanta": "144.202.21.227", "vultrbangalore": "139.84.138.239", "vultrchicago": "207.148.11.122", "vultrdallas": "45.76.56.102", "vultrfrankfurt": "95.179.167.194", "vultrjohannesburg": "139.84.233.33", "vultrla": "45.32.95.226", "vultrlondon": "78.141.201.22", "vultrmadrid": "208.85.21.84", "vultrmelbourne": "67.219.109.137", "vultrmexicocity": "216.238.84.165", "vultrmiami": "45.77.199.18", "vultrmumbai": "65.20.83.113", "vultrnj2": "173.199.118.107", "vultrparis": "45.32.150.232", "vultrsaopaulo": "216.238.110.64", "vultrseattle": "149.28.15.94", "vultrseoul": "141.164.58.52", "vultrsiliconvalley": "140.82.51.0", "vultrsingapore": "149.28.132.221", "vultrstockholm": "70.34.221.1", "vultrsydney": "108.61.251.130", "vultrtokyo": "198.13.50.24", "vultrtoronto": "155.138.130.183", "vultrwarsaw": "70.34.243.25"}
